@@ -1,0 +1,1 @@
+You can give him a function and ask him to write unit tests for it.

@@ -1,0 +1,1 @@
+You can ask him to write any query you want and ask him for improvement suggestions. 

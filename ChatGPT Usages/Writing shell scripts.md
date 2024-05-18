@@ -1,0 +1,1 @@
+You can ask him to write a shell script to do a specific job.

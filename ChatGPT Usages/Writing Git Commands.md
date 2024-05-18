@@ -1,0 +1,1 @@
+It can be used to understand git commands or search for a specific command to do something.

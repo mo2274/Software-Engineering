@@ -1,0 +1,1 @@
+It can give you dummy data for your table or API.

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/OOP.md",
+                "file": "ChatGPT Usages/Writing Sql Queries.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "18d4564b22e15628",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/OOP.md",
+                "file": "ChatGPT Usages/Writing Sql Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/OOP.md",
+                "file": "ChatGPT Usages/Writing Sql Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/OOP.md"
+                "file": "ChatGPT Usages/Writing Sql Queries.md"
               }
             }
           }
@@ -156,9 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2542cacd3902ed",
+  "active": "20f0ce9c3b2ce312",
   "lastOpenFiles": [
+    "ChatGPT Usages/Understanding and fixing errors.md",
+    "ChatGPT Usages/Writing Sql Queries.md",
+    "ChatGPT Usages/Generate Dummy Data.md",
+    "ChatGPT Usages/Practicing English.md",
+    "ChatGPT Usages/Convert a code from one language to another..md",
+    "ChatGPT Usages/Code Refactoring.md",
+    "ChatGPT Usages/Writing Unit Tests.md",
+    "ChatGPT Usages/Writing Code.md",
+    "ChatGPT Usages/Writing Emails.md",
+    "ChatGPT Usages/Act as an Interviewer.md",
+    "ChatGPT Usages/Writing Resume and Cover letters.md",
+    "ChatGPT Usages/Writing Git Commands.md",
+    "ChatGPT Usages/Writing shell scripts.md",
+    "ChatGPT Usages/Asking General Questions.md",
+    "Untitled.md",
     "Design Patterns/OOP.md",
+    "ChatGPT Usages",
     "Design Patterns",
     "Design Patterns.md",
     "Azure DevOps/How A release is sit up.md",

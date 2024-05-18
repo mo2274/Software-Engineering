@@ -1,0 +1,1 @@
+It can be used to suggest a resume template or write a cover letter to a specific company.
